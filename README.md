@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on fun data science projects
+- 🌱 I’m currently learning everything and anything
+- 💬 Ask me about fraud analytics
+- 😄 Pronouns: she/her
+  
 <!--
 **nuraynasib/nuraynasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
