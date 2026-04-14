@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on fun data science projects
-- 🌱 I’m currently learning everything and anything
-- 💬 Ask me about fraud analytics
-- 😄 Pronouns: she/her
+My name is Nuray, and I'm an UW trained data scientist working in FinTech undustry speacializing on fraud analytics.
+
+- 🔭 I’m currently working on fun data science projects, mostly in prediction.
+- 🌱 I’m currently learning everything and anything that I can.
+- 💬 Ask me about fraud analytics.
+- ⚡ Pronouns: she/her
   
 <!--
 **nuraynasib/nuraynasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
