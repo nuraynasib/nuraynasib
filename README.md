@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Nuray, and I'm an UW trained data scientist working in FinTech undustry speacializing on fraud analytics.
+My name is Nuray, and I'm an UW trained data scientist working in FinTech industry and speacializing in fraud analytics.
 
 - 🔭 I’m currently working on fun data science projects, mostly in prediction.
 - 🌱 I’m currently learning everything and anything that I can.
