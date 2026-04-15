@@ -2,7 +2,7 @@
 
 My name is Nuray, and I'm an UW trained data scientist working in FinTech industry and speacializing in fraud analytics.
 
-- 🔭 I’m currently working on fun data science projects, mostly in prediction.
+- 🔭 I’m currently working on fun data science projects, mostly in prediction models.
 - 🌱 I’m currently learning everything and anything that I can.
 - 💬 Ask me about fraud analytics.
 - ⚡ Pronouns: she/her
